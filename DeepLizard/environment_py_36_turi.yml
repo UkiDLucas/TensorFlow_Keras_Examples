@@ -1,4 +1,4 @@
-name: turi
+name: py36_TensorFlow
 channels:
   - conda-forge
   - defaults
